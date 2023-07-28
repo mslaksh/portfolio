@@ -33,6 +33,6 @@
     "description": "A themeable and developer-centric portfolio based on the VSCode",
     "tags": ["next", "css-modules"],
     "source_code": "https://github.com/mslaksh/portfolio",
-    "demo": "https://portfolio-theta-ten-69.vercel.app/"
+    "demo": "https://portfolio-mslaksh.vercel.app"
   }
 ]
