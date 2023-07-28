@@ -6,7 +6,7 @@
     "description": "An Editable Resume Using JSON",
     "tags": ["node", "mongodb", "tailwind", "react-query"],
     "source_code": "https://github.com/mslaksh/resume-builder",
-    "demo": "resume-builder-msl.vercel.app"
+    "demo": "https://resume-builder-msl.vercel.app"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "description": "Digital Text to handwritten form",
     "tags": ["react", "node"],
     "source_code": "https://github.com/mslaksh/text-to-handwritten",
-    "demo": "text-to-handwritten-cyan.vercel.app"
+    "demo": "https://text-to-handwritten-cyan.vercel.app"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "description": "An online IDE using Next js",
     "tags": ["react", "node", "mongodb", "redux", "material-ui"],
     "source_code": "https://github.com/openIDE",
-    "demo": "open-ide.vercel.app"
+    "demo": "https://open-ide.vercel.app"
   },
   {
     "id": 4,
@@ -32,7 +32,7 @@
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "A themeable and developer-centric portfolio based on the VSCode",
     "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/mslaksh/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "source_code": "https://github.com/mslaksh/portfolio",
+    "demo": "https://portfolio-theta-ten-69.vercel.app/"
   }
 ]
